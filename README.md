@@ -2,4 +2,4 @@
 
 <p>Welcome to my page! </br> I'm Antonio Jr. , Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/7826/7826359.png"  width="13"/> <b>Brazil</b> and I currently living in <b>Porto Alegre, RS</b>. </p>
 
-</br></br><p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, May 1, 10:24 PM GMT-3
+</br></br><p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, May 2, 12:39 AM GMT-3
